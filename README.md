@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚀 DevOps Team
 
-## Getting Started
+Welcome to **DevOps** – a passionate team of developers and innovators working together to build amazing web applications using **React**/**Next.js** and modern technologies.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 👥 Our Team
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+| 🧑‍💻 **Name**       | 🎯 **Role**                            | 🛠 **Skills**                                   | 📫 **Contact**                                                                   |
+| ----------------- | -------------------------------------- | ---------------------------------------------- | -------------------------------------------------------------------------------- |
+| **Azijul Hakim**  | 🏆 **Team Lead & MERN stack Developer** | Next.js · React · Node.js · MongoDB · Tailwind | [GitHub](https://github.com/azijulhakimbd) · [LinkedIn](https://linkedin.com/in/azijulhakimbd) |
+| **Name**    | 🎨 **Role**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/in/)   |
+| **Name**    | 🎨 **Role**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/in/)   |
+| **Name**    | 🎨 **Role**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/in/)   |
+| **Name**    | 🎨 **Role**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/in/)   |
+| **Name**    | 🎨 **Role**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/in/)   |
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🎯 Mission & Vision
 
-## Learn More
+**Mission:**  
+To create scalable, user-friendly, and secure web applications that solve real-world problems.
 
-To learn more about Next.js, take a look at the following resources:
+**Vision:**  
+To become a leading team of fullstack developers who can take any idea from concept to production-ready deployment.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Tech Stack
 
-## Deploy on Vercel
+- **Frontend:** Next.js, React, Tailwind CSS, shadcn/ui
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB / PostgreSQL (depending on project needs)
+- **Auth:** NextAuth / Firebase Authentication
+- **Deployment:** Vercel, Netlify
+- **Version Control:** GitHub
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
