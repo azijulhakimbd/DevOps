@@ -8,7 +8,7 @@ Welcome to **DevOps** – a passionate team of developers and innovators working
 
 | 🧑‍💻 **Name**       | 🎯 **Role**                            | 🛠 **Skills**                                   | 📫 **Contact**                                                                   |
 | ----------------- | -------------------------------------- | ---------------------------------------------- | -------------------------------------------------------------------------------- |
-| **Azijul Hakim**  | 🏆 **Team Lead & MERN stack Developer** | Next.js · React · Node.js · MongoDB · Tailwind | [GitHub](https://github.com/azijulhakimbd) · [LinkedIn](https://linkedin.com/in/azijulhakimbd) |
+| **Md Azijul Hakim**  | 🏆 **Team Lead & MERN stack Developer** | Next.js · React · Node.js · MongoDB · TailwindCSS | [GitHub](https://github.com/azijulhakimbd) · [LinkedIn](https://linkedin.com/in/azijulhakimbd) |
 | **Name**    | 🎨 **Role**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/in/)   |
 | **Name**    | 🎨 **Role**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/in/)   |
 | **Name**    | 🎨 **Role**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/in/)   |
