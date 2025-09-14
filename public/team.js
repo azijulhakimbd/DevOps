@@ -33,7 +33,7 @@ const team = [
   },
   {
     name: "Jane Smith",
-    role: "Backend Developer",
+    role: "MERN Stack Developer",
     image: "https://source.unsplash.com/200x200/?backend,developer",
     facebook: "https://facebook.com/",
     linkedin: "https://linkedin.com/",
