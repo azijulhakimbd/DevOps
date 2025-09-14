@@ -1,5 +1,7 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import { GridBeams } from "@/components/magicui/grid-beams";
+import Navbar from "./Components/Navbar";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -22,7 +24,19 @@ export default function RootLayout({ children }) {
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        {children}
+        <GridBeams  gridSize={0}
+        gridColor="rgba(255, 255, 255, 0.2)"
+        rayCount={20}
+        rayOpacity={0.55}
+        raySpeed={1.5}
+        rayLength="40vh"
+        gridFadeStart={5}
+        gridFadeEnd={90}
+        className="h-full w-full">
+          <Navbar></Navbar>
+          {children}
+        </GridBeams>
+        
       </body>
     </html>
   );
