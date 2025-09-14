@@ -11,23 +11,27 @@ export default function HeroSection() {
       <div className="text-center space-y-6">
         {/* ✅ Responsive Heading */}
         <h1 className="text-3xl sm:text-4xl md:text-6xl lg:text-7xl font-bold text-white leading-tight">
-          <TextAnimate animation="blurInUp" by="h1">Welcome to <span className="text-blue-400">DevOps</span> Teams</TextAnimate> 
+          <TextAnimate animation="blurInUp" by="h1">
+            Welcome to <span className="text-blue-400">DevOps</span> Teams
+          </TextAnimate>
         </h1>
 
         {/* ✅ Animated Description */}
-        <TextAnimate animation="blurInUp" by="p">
-          <span className="text-gray-200 sm:text-md md:text-xl lg:text-2xl mx-auto">
-            Welcome to DevOps – a passionate team of developers and innovators
-            working together <br /> to build amazing web applications using React/Next.js
-            and modern technologies.
-          </span>
+        <TextAnimate
+          animation="blurInUp"
+          by="p"
+          className="text-gray-200 text-center sm:text-lg md:text-xl leading-relaxed"
+        >
+          Welcome to DevOps – a passionate team of developers and innovators
+          working together to build amazing web applications using React/Next.js
+          and modern technologies.
         </TextAnimate>
 
         {/* ✅ Buttons */}
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
           <RainbowButton>
-            <Link href="/project" className="w-full block text-center">
-              View Project
+            <Link href="/projects" className="w-full block text-center">
+              View Projects
             </Link>
           </RainbowButton>
 
