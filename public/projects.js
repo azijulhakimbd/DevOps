@@ -23,6 +23,14 @@ const projects = [
     live: "https://restaurant-manager-demo.netlify.app",
     github: "https://github.com/your-username/restaurant-manager",
   },
+  {
+    title: "Medical Management System",
+    description:
+      "A full-stack MERN (MongoDB, Express, React, Node.js) web application that helps organizers create and manage medical camps, and allows participants to join those camps, make payments, and access health resources.",
+    image: "https://i.ibb.co.com/xK3xTbK7/Screenshot-378.png",
+    live: "https://medical-center-camp.web.app/",
+    github: "https://github.com/sujanchakma1/medical-camp-client",
+  }
 ];
 
 export default projects;
