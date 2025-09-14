@@ -12,7 +12,7 @@ Welcome to **DevOps** – a passionate team of developers and innovators working
 | **Naimur Rahman Durjoy**    | 👨‍💻 **MERN Stack Developer**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/rahmandurjoy04) · [LinkedIn](https://linkedin.com/in/durjoy4004/)   |
 | **Sifat Hasan**    | 👨‍💻 **Mern Stack**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/sifathasan2430) · [LinkedIn](https://www.linkedin.com/in/sifathasan1/)   |
 | **Rahul Mondol**    | 👨‍💻 **Mern Stack**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/rahulwde) · [LinkedIn](https://www.linkedin.com/in/rahul-mondol/)   |
-| **Name**    | 👨‍💻 **Role**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/in/)   |
+| **Tasfik Hasan**    | 👨‍💻 **MERN Stack Developer**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/tasfiktanim) · [LinkedIn](https://www.linkedin.com/in/md-tasfik-hasan/)   |
 | **Name**    |  **Role**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/in/)   |
 
 ---
