@@ -13,7 +13,7 @@ Welcome to **DevOps** – a passionate team of developers and innovators working
 | **Name**    | 👨‍💻 **Role**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/in/)   |
 | **Name**    | 👨‍💻 **Role**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/in/)   |
 | **Name**    | 👨‍💻 **Role**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/in/)   |
-| **Name**    | 👨‍💻 **Role**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/in/)   |
+| **Name**    |  **Role**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/in/)   |
 
 ---
 
