@@ -13,8 +13,11 @@ Welcome to **DevOps** – a passionate team of developers and innovators working
 | **Name**    | 👨‍💻 **Role**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/in/)   |
 | **Name**    | 👨‍💻 **Role**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/in/)   |
 | **Name**    | 👨‍💻 **Role**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/in/)   |
+| **Sifat Hasan**    | 👨‍💻 **Mern Stack**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/sifathasan2430) · [LinkedIn](https://www.linkedin.com/in/sifathasan1/)   |
+| **Name**    | 👨‍💻 **Role**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/in/)   |
+| **Name**    | 👨‍💻 **Role**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/in/)   |
 | **Name**    |  **Role**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/in/)   |
-
+| **Name**    | 👨‍💻 **Role**                  | Next.js · React · Node.js · MongoDB · Tailwind  |  [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/in/)   |
 ---
 
 ## 🎯 Mission & Vision
