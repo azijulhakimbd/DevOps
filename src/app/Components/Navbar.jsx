@@ -20,7 +20,7 @@ export default function Navbar() {
           <Link href="/" className="hover:text-blue-400 transition">
             Home
           </Link>
-          <Link href="/project" className="hover:text-blue-400 transition">
+          <Link href="/projects" className="hover:text-blue-400 transition">
             Projects
           </Link>
           <Link href="/team" className="hover:text-blue-400 transition">
