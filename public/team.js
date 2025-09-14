@@ -39,6 +39,14 @@ const team = [
     linkedin: "https://linkedin.com/",
     github: "https://github.com/",
   },
+  {
+    name: "Jane Smith",
+    role: "MERN Stack Developer",
+    image: "https://source.unsplash.com/200x200/?backend,developer",
+    facebook: "https://facebook.com/",
+    linkedin: "https://linkedin.com/",
+    github: "https://github.com/",
+  },
 ];
 
 export default team;
