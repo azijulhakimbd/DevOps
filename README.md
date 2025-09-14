@@ -38,3 +38,8 @@ To become a leading team of fullstack developers who can take any idea from conc
 
 ---
 
+# How to create a branch
+git branch <branch name>
+# go to branch
+git checkout <branch_name>
+
