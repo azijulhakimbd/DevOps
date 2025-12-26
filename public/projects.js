@@ -1,5 +1,13 @@
 const projects = [
   {
+    title: " EasyStay – Short-Term Rental Marketplace",
+    description:
+      "Online marketplace platform for short-term property rentals, with browsing, booking, and review features.",
+    image: "https://i.postimg.cc/BQ4SXZF7/Easy_Stay_Hero.png",
+    live: "https://easy-stay-liart.vercel.app",
+    github: "https://github.com/azijulhakimbd/Easy-Stay",
+  },
+  {
     title: "Parcel Delivery App",
     description:
       "A full-stack parcel delivery platform with Stripe integration, real-time tracking, and admin panel.",
@@ -30,7 +38,7 @@ const projects = [
     image: "https://i.ibb.co.com/xK3xTbK7/Screenshot-378.png",
     live: "https://medical-center-camp.web.app/",
     github: "https://github.com/sujanchakma1/medical-camp-client",
-  }
+  },
 ];
 
 export default projects;
