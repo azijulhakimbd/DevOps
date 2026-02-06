@@ -1,5 +1,13 @@
 const projects = [
   {
+    title: " EasyStay – Short-Term Rental Marketplace",
+    description:
+      "Online marketplace platform for short-term property rentals, with browsing, booking, and review features.",
+    image: ["https://i.postimg.cc/BQ4SXZF7/Easy_Stay_Hero.png", "https://i.postimg.cc/T1XRjf41/easy_stay_liart_vercel_app_host.png", "https://i.postimg.cc/nc2H78YJ/easy_stay_two_vercel_app_stays.png"],
+    live: "https://easy-stay-liart.vercel.app",
+    github: "https://github.com/azijulhakimbd/Easy-Stay",
+  },
+  {
     title: "Parcel Delivery App",
     description:
       "A full-stack parcel delivery platform with Stripe integration, real-time tracking, and admin panel.",
@@ -31,16 +39,9 @@ const projects = [
     live: "https://medical-center-camp.web.app/",
     github: "https://github.com/sujanchakma1/medical-camp-client",
   },
-   {
-  
+  {
     title: "Life Insurance Management",
-   description:'This Life Insurance Management Platform is a feature-rich MERN stack application designed with separate, role-based dashboards for Admins, Agents, and Customers, ensuring each user has tailored tools and controls.\n\n' +
-      'The system is secured with JWT-protected APIs, using HttpOnly cookies for authentication and strict role validation. Payments are handled through integrated Stripe services, enabling premium transactions with live status tracking and transaction management.\n\n' +
-      'Customers can calculate premiums through a dynamic quote system and apply for policies via a multi-step application form, which includes a detailed health disclosure section for underwriting.\n\n' +
-      'Admins have powerful tools to assign agents, review applications through feedback modals, and access insights on transactions, users, blogs, and policies in organized tables.\n\n' +
-      'The platform supports blog creation, editing, and visit tracking, as well as a policy review system with star ratings. Additional features include a claim request process with approval tracking and PDF uploads, newsletter subscriptions stored in the database for future engagement, and plans for downloadable policy PDFs.\n\n' +
-      'The UI is fully responsive across mobile, tablet, and desktop, styled with Tailwind CSS and enhanced with SweetAlert modals for a modern user experience. Data fetching is optimized using @tanstack/react-query, with page-specific SEO titles managed via react-helmet-async.\n\n' +
-      'Users can easily search and filter policies by keyword and category, while server-side pagination ensures fast and efficient browsing.',
+   description:"Life Insurance Management Platform is a MERN stack application with role-based dashboards for Admins, Agents, and Customers. It uses JWT authentication with HttpOnly cookies and Stripe for secure premium payments. Customers can calculate quotes, apply for policies through a multi-step form, submit claims, and review policies. Admins manage users, agents, applications, blogs, and transactions. The platform features responsive UI with Tailwind CSS, optimized data fetching with TanStack Query, SEO management, and fast policy search with server-side pagination.",
     image:["https://i.ibb.co.com/9mzTvSqN/png-10.jpg","https://i.ibb.co/PG4xPdtr/png-1.jpg"] ,
     live: "https://life-insurance-management.web.app",
     github: "https://github.com/sifathasan2430/-Life-Insurance-Management-Platform",
