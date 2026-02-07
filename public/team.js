@@ -8,21 +8,22 @@ const team = [
     github: "https://github.com/azijulhakimbd",
   },
   {
+    name: "Naimur Rahman Durjoy",
+    role: "MERN Stack Developer",
+    image: "",
+    facebook: "https://www.facebook.com/durjoy4004",
+    linkedin: "https://www.linkedin.com/in/durjoy4004/",
+    github: "https://github.com/rahmandurjoy04",
+  },
+  {
     name: "Sifat Hasan",
-    role: "Mern Stack Developer",
+    role: "MERN Stack Developer",
     image: "https://i.ibb.co.com/8LPJqTx3/1754646608911-e-1758153600-v-beta-t-TO7-VI7y1-HS0-z-Vy-Fy-LSr6-K4-UG1-WSyfz-it-JDs-KC8-I.jpg",
     facebook: "",
     linkedin: "https://www.linkedin.com/in/sifathasan1",
     github: "https://github.com/sifathasan2430/sifathasan2430",
   },
-  {
-    name: "Jane Smith",
-    role: "Backend Developer",
-    image: "https://source.unsplash.com/200x200/?backend,developer",
-    facebook: "https://facebook.com/",
-    linkedin: "https://linkedin.com/",
-    github: "https://github.com/",
-  },
+  
   {
     name: "John Doe",
     role: "Frontend Engineer",
